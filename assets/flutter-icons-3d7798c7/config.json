@@ -1,0 +1,40 @@
+{
+  "name": "Challeng_05",
+  "css_prefix_text": "",
+  "css_use_suffix": false,
+  "hinting": true,
+  "units_per_em": 1000,
+  "ascent": 850,
+  "glyphs": [
+    {
+      "uid": "4c8822c296f8b46e1b0a1c0f627be146",
+      "css": "town-hall",
+      "code": 59452,
+      "src": "maki"
+    },
+    {
+      "uid": "3005963be4bb574cc7d7ed5c767ab8e1",
+      "css": "business_center",
+      "code": 59392,
+      "src": "material"
+    },
+    {
+      "uid": "6ad074bda46c1f4c7cfe9c02199cedf0",
+      "css": "map-marker",
+      "code": 59443,
+      "src": "linearicons"
+    },
+    {
+      "uid": "b08f8c33777cd6b512d9576fc6e7f405",
+      "css": "food",
+      "code": 59393,
+      "src": "linecons"
+    },
+    {
+      "uid": "f978da58836f23373882916f05fb70b4",
+      "css": "doc",
+      "code": 59394,
+      "src": "linecons"
+    }
+  ]
+}
